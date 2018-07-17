@@ -6,7 +6,7 @@ A BitCore full node for building applications and services with Node.js. A node 
 ## Install
 
 ```bash
-git clone https://github.com/BTXinsight/bitcore-node-btx.git
+git clone https://github.com/LIMXTEC/bitcore-node-btx.git
 cd bitcore-node-btx
 npm install
 bitcore-node start
@@ -37,8 +37,8 @@ This will create a directory with configuration files for your node and install 
 
 There are several add-on services available to extend the functionality of Bitcore:
 
-- [Insight API](https://github.com/BTXinsight/insight-api-btx)
-- [Insight UI](https://github.com/BTXinsight/insight-ui-btx)
+- [Insight API](https://github.com/LIMXTEC/insight-api-btx)
+- [Insight UI](https://github.com/LIMXTEC/insight-ui-btx)
 
 ## Documentation
 
