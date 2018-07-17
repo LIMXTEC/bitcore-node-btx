@@ -94,7 +94,7 @@ describe('#add', function() {
       var callCount = 0;
       var oldPackage = {
         dependencies: {
-          'bitcore-lib-btx': 'BTXinsight/bitcore-lib-btx',
+          'bitcore-lib-btx': 'LIMXTEC/bitcore-lib-btx',
           'bitcore-node': '^v0.2.0'
         }
       };
